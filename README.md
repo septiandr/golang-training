@@ -47,3 +47,7 @@ This repo is not about building something perfect—it’s about learning by doi
 I’ll keep adding small projects, notes, and code snippets as I explore Golang deeper.
 
 If you’re also learning Go, feel free to follow along or share your thoughts! 🚀
+
+
+List project :
+1. Calculator

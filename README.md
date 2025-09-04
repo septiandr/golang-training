@@ -50,4 +50,4 @@ If you’re also learning Go, feel free to follow along or share your thoughts! 
 
 
 List project :
-1. Calculator
+1. Calculator : menggunakan algoritma kalkulator infix ke postfix
